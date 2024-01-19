@@ -1,4 +1,6 @@
 ## Dummy Dotnet Api and React Apps
 
-For dotnet Api use those endpoints:
-** /, /hello **
+For Dotnet Api use endpoints:
+/   or  /hello
+
+or /swagger in Dev
